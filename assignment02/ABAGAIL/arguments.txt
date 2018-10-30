@@ -1,0 +1,7 @@
+For Abalone
+Num_Examples: 4160
+Num_Attributes: 8
+
+For Wine and Census
+NUM_Examples: 1575
+NUM_Atrributes: 11

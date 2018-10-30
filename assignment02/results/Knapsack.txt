@@ -1,0 +1,487 @@
+Randomized Hill Climbing
+----------500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.008 seconds
+----------1000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.011 seconds
+----------1500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.014 seconds
+----------2000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.016 seconds
+----------2500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.017 seconds
+----------3000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.019 seconds
+----------3500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.022 seconds
+----------4000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.024 seconds
+----------4500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.027 seconds
+----------5000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.030 seconds
+----------5500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.033 seconds
+----------6000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.037 seconds
+----------6500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.044 seconds
+----------7000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.048 seconds
+----------7500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.056 seconds
+----------8000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.060 seconds
+----------8500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.064 seconds
+----------9000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.072 seconds
+----------9500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.077 seconds
+----------10000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.084 seconds
+----------10500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.097 seconds
+----------11000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.102 seconds
+----------11500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.107 seconds
+----------12000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.113 seconds
+----------12500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.118 seconds
+----------13000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.136 seconds
+----------13500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.141 seconds
+----------14000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.143 seconds
+----------14500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.145 seconds
+----------15000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.152 seconds
+----------15500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.155 seconds
+----------16000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.157 seconds
+----------16500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.160 seconds
+----------17000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.212 seconds
+----------17500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.220 seconds
+----------18000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.238 seconds
+----------18500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.246 seconds
+----------19000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.266 seconds
+----------19500 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.273 seconds
+----------20000 iterations-----------
+RHC: 2678.5800538834283
+Time : 0.278 seconds
+============================
+Simulated Annealing
+----------500 iterations-----------
+SA: 2868.46678249715
+Time : 0.012 seconds
+----------1000 iterations-----------
+SA: 2868.46678249715
+Time : 0.015 seconds
+----------1500 iterations-----------
+SA: 2868.46678249715
+Time : 0.017 seconds
+----------2000 iterations-----------
+SA: 2868.46678249715
+Time : 0.019 seconds
+----------2500 iterations-----------
+SA: 2868.46678249715
+Time : 0.026 seconds
+----------3000 iterations-----------
+SA: 2868.46678249715
+Time : 0.030 seconds
+----------3500 iterations-----------
+SA: 2868.46678249715
+Time : 0.036 seconds
+----------4000 iterations-----------
+SA: 2868.46678249715
+Time : 0.042 seconds
+----------4500 iterations-----------
+SA: 2868.46678249715
+Time : 0.050 seconds
+----------5000 iterations-----------
+SA: 2868.46678249715
+Time : 0.061 seconds
+----------5500 iterations-----------
+SA: 2868.46678249715
+Time : 0.115 seconds
+----------6000 iterations-----------
+SA: 2868.46678249715
+Time : 0.129 seconds
+----------6500 iterations-----------
+SA: 2868.46678249715
+Time : 0.147 seconds
+----------7000 iterations-----------
+SA: 2868.46678249715
+Time : 0.163 seconds
+----------7500 iterations-----------
+SA: 2868.46678249715
+Time : 0.175 seconds
+----------8000 iterations-----------
+SA: 2868.46678249715
+Time : 0.209 seconds
+----------8500 iterations-----------
+SA: 2868.46678249715
+Time : 0.234 seconds
+----------9000 iterations-----------
+SA: 2868.46678249715
+Time : 0.252 seconds
+----------9500 iterations-----------
+SA: 2868.46678249715
+Time : 0.267 seconds
+----------10000 iterations-----------
+SA: 2868.46678249715
+Time : 0.283 seconds
+----------10500 iterations-----------
+SA: 2868.46678249715
+Time : 0.298 seconds
+----------11000 iterations-----------
+SA: 2868.46678249715
+Time : 0.317 seconds
+----------11500 iterations-----------
+SA: 2868.46678249715
+Time : 0.341 seconds
+----------12000 iterations-----------
+SA: 2868.46678249715
+Time : 0.376 seconds
+----------12500 iterations-----------
+SA: 2868.46678249715
+Time : 0.401 seconds
+----------13000 iterations-----------
+SA: 2868.46678249715
+Time : 0.421 seconds
+----------13500 iterations-----------
+SA: 2868.46678249715
+Time : 0.442 seconds
+----------14000 iterations-----------
+SA: 2868.46678249715
+Time : 0.466 seconds
+----------14500 iterations-----------
+SA: 2868.46678249715
+Time : 0.491 seconds
+----------15000 iterations-----------
+SA: 2868.46678249715
+Time : 0.513 seconds
+----------15500 iterations-----------
+SA: 2868.46678249715
+Time : 0.541 seconds
+----------16000 iterations-----------
+SA: 2868.46678249715
+Time : 0.565 seconds
+----------16500 iterations-----------
+SA: 2868.46678249715
+Time : 0.593 seconds
+----------17000 iterations-----------
+SA: 2868.46678249715
+Time : 0.626 seconds
+----------17500 iterations-----------
+SA: 2868.46678249715
+Time : 0.649 seconds
+----------18000 iterations-----------
+SA: 2868.46678249715
+Time : 0.675 seconds
+----------18500 iterations-----------
+SA: 2868.46678249715
+Time : 0.696 seconds
+----------19000 iterations-----------
+SA: 2868.46678249715
+Time : 0.716 seconds
+----------19500 iterations-----------
+SA: 2868.46678249715
+Time : 0.738 seconds
+----------20000 iterations-----------
+SA: 2868.46678249715
+Time : 0.764 seconds
+============================
+Genetic Algorithm
+----------500 iterations-----------
+GA: 2397.31628883782
+Time : 0.060 seconds
+----------1000 iterations-----------
+GA: 1925.5763724486644
+Time : 0.136 seconds
+----------1500 iterations-----------
+GA: 2095.542274766526
+Time : 0.255 seconds
+----------2000 iterations-----------
+GA: 1870.9740573110455
+Time : 0.486 seconds
+----------2500 iterations-----------
+GA: 2361.547269804933
+Time : 0.637 seconds
+----------3000 iterations-----------
+GA: 2484.650218105727
+Time : 0.792 seconds
+----------3500 iterations-----------
+GA: 2214.584349980455
+Time : 1.014 seconds
+----------4000 iterations-----------
+GA: 2329.2200651139597
+Time : 1.179 seconds
+----------4500 iterations-----------
+GA: 2529.830881537235
+Time : 1.344 seconds
+----------5000 iterations-----------
+GA: 2307.513984427985
+Time : 1.498 seconds
+----------5500 iterations-----------
+GA: 2602.552428328193
+Time : 1.683 seconds
+----------6000 iterations-----------
+GA: 2515.871973498129
+Time : 1.875 seconds
+----------6500 iterations-----------
+GA: 2505.841061368846
+Time : 2.096 seconds
+----------7000 iterations-----------
+GA: 1631.045964027458
+Time : 2.418 seconds
+----------7500 iterations-----------
+GA: 2426.314936802302
+Time : 2.743 seconds
+----------8000 iterations-----------
+GA: 1669.448461243758
+Time : 3.009 seconds
+----------8500 iterations-----------
+GA: 2533.236882407379
+Time : 3.291 seconds
+----------9000 iterations-----------
+GA: 2199.863710179383
+Time : 3.600 seconds
+----------9500 iterations-----------
+GA: 2615.828294210749
+Time : 3.936 seconds
+----------10000 iterations-----------
+GA: 2602.5862736336762
+Time : 4.298 seconds
+----------10500 iterations-----------
+GA: 2636.597260762402
+Time : 4.681 seconds
+----------11000 iterations-----------
+GA: 1956.4431578226236
+Time : 5.217 seconds
+----------11500 iterations-----------
+GA: 1424.442840379469
+Time : 5.769 seconds
+----------12000 iterations-----------
+GA: 2574.1885766436885
+Time : 6.218 seconds
+----------12500 iterations-----------
+GA: 2152.0346879266217
+Time : 6.659 seconds
+----------13000 iterations-----------
+GA: 1964.343460933965
+Time : 7.118 seconds
+----------13500 iterations-----------
+GA: 2602.4532740988616
+Time : 7.590 seconds
+----------14000 iterations-----------
+GA: 1926.7583193911707
+Time : 8.059 seconds
+----------14500 iterations-----------
+GA: 2395.6366232428077
+Time : 8.597 seconds
+----------15000 iterations-----------
+GA: 2577.5966367871097
+Time : 9.309 seconds
+----------15500 iterations-----------
+GA: 2150.155351167174
+Time : 9.863 seconds
+----------16000 iterations-----------
+GA: 2356.2430497050523
+Time : 10.377 seconds
+----------16500 iterations-----------
+GA: 2693.7436768631424
+Time : 10.942 seconds
+----------17000 iterations-----------
+GA: 2569.185875129433
+Time : 11.495 seconds
+----------17500 iterations-----------
+GA: 2602.234056736042
+Time : 12.085 seconds
+----------18000 iterations-----------
+GA: 2640.929698046868
+Time : 12.694 seconds
+----------18500 iterations-----------
+GA: 2411.2616252892017
+Time : 13.314 seconds
+----------19000 iterations-----------
+GA: 2829.2943877980206
+Time : 13.994 seconds
+----------19500 iterations-----------
+GA: 1715.0135447207256
+Time : 14.628 seconds
+----------20000 iterations-----------
+GA: 1719.9529589169538
+Time : 15.341 seconds
+============================
+MIMIC
+----------500 iterations-----------
+MIMIC: 3334.732428681193
+Time : 1.262 seconds
+----------1000 iterations-----------
+MIMIC: 3339.9275691077205
+Time : 2.984 seconds
+----------1500 iterations-----------
+MIMIC: 3336.0359501469334
+Time : 5.488 seconds
+----------2000 iterations-----------
+MIMIC: 3334.732428681193
+Time : 9.272 seconds
+----------2500 iterations-----------
+MIMIC: 3334.732428681193
+Time : 14.231 seconds
+----------3000 iterations-----------
+MIMIC: 3336.5399806703813
+Time : 20.180 seconds
+----------3500 iterations-----------
+MIMIC: 3336.287965408657
+Time : 25.846 seconds
+----------4000 iterations-----------
+MIMIC: 3354.0261789905453
+Time : 32.301 seconds
+----------4500 iterations-----------
+MIMIC: 3354.0261789905453
+Time : 39.961 seconds
+----------5000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 49.950 seconds
+----------5500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 60.270 seconds
+----------6000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 75.668 seconds
+----------6500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 94.155 seconds
+----------7000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 108.942 seconds
+----------7500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 122.070 seconds
+----------8000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 136.081 seconds
+----------8500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 151.357 seconds
+----------9000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 165.927 seconds
+----------9500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 180.817 seconds
+----------10000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 198.290 seconds
+----------10500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 215.823 seconds
+----------11000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 234.058 seconds
+----------11500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 253.511 seconds
+----------12000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 274.318 seconds
+----------12500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 296.126 seconds
+----------13000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 319.165 seconds
+----------13500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 344.075 seconds
+----------14000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 366.732 seconds
+----------14500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 418.271 seconds
+----------15000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 448.831 seconds
+----------15500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 482.794 seconds
+----------16000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 513.276 seconds
+----------16500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 542.122 seconds
+----------17000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 568.808 seconds
+----------17500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 597.121 seconds
+----------18000 iterations-----------
+MIMIC: 3359.7249657458788
+Time : 629.622 seconds
+----------18500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 661.085 seconds
+----------19000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 694.158 seconds
+----------19500 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 729.244 seconds
+----------20000 iterations-----------
+MIMIC: 3354.2781942522697
+Time : 762.455 seconds

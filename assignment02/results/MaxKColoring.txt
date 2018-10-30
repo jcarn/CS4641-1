@@ -1,0 +1,647 @@
+Randomized Hill Climbing
+----------500 iterations-----------
+966.158
+RHC: 984.0
+Time : 0.038 seconds
+----------1000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.049 seconds
+----------1500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.056 seconds
+----------2000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.061 seconds
+----------2500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.069 seconds
+----------3000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.078 seconds
+----------3500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.087 seconds
+----------4000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.095 seconds
+----------4500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.100 seconds
+----------5000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.108 seconds
+----------5500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.115 seconds
+----------6000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.152 seconds
+----------6500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.160 seconds
+----------7000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.166 seconds
+----------7500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.174 seconds
+----------8000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.182 seconds
+----------8500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.191 seconds
+----------9000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.198 seconds
+----------9500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.206 seconds
+----------10000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.215 seconds
+----------10500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.225 seconds
+----------11000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.236 seconds
+----------11500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.248 seconds
+----------12000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.257 seconds
+----------12500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.266 seconds
+----------13000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.276 seconds
+----------13500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.289 seconds
+----------14000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.303 seconds
+----------14500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.312 seconds
+----------15000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.318 seconds
+----------15500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.324 seconds
+----------16000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.330 seconds
+----------16500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.334 seconds
+----------17000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.339 seconds
+----------17500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.344 seconds
+----------18000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.349 seconds
+----------18500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.354 seconds
+----------19000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.361 seconds
+----------19500 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.367 seconds
+----------20000 iterations-----------
+984.0
+RHC: 984.0
+Time : 0.371 seconds
+============================
+Simulated Annealing
+----------500 iterations-----------
+964.178
+SA: 984.0
+Time : 0.009 seconds
+----------1000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.016 seconds
+----------1500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.023 seconds
+----------2000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.028 seconds
+----------2500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.033 seconds
+----------3000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.038 seconds
+----------3500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.042 seconds
+----------4000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.047 seconds
+----------4500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.053 seconds
+----------5000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.062 seconds
+----------5500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.068 seconds
+----------6000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.077 seconds
+----------6500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.089 seconds
+----------7000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.099 seconds
+----------7500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.126 seconds
+----------8000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.141 seconds
+----------8500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.156 seconds
+----------9000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.167 seconds
+----------9500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.177 seconds
+----------10000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.183 seconds
+----------10500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.192 seconds
+----------11000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.199 seconds
+----------11500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.205 seconds
+----------12000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.212 seconds
+----------12500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.217 seconds
+----------13000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.222 seconds
+----------13500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.227 seconds
+----------14000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.232 seconds
+----------14500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.237 seconds
+----------15000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.243 seconds
+----------15500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.248 seconds
+----------16000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.255 seconds
+----------16500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.259 seconds
+----------17000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.266 seconds
+----------17500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.276 seconds
+----------18000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.284 seconds
+----------18500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.290 seconds
+----------19000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.299 seconds
+----------19500 iterations-----------
+984.0
+SA: 984.0
+Time : 0.306 seconds
+----------20000 iterations-----------
+984.0
+SA: 984.0
+Time : 0.313 seconds
+============================
+Genetic Algorithm
+----------500 iterations-----------
+1362.27585
+GA: 1400.0
+Time : 0.944 seconds
+----------1000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 1.515 seconds
+----------1500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 2.108 seconds
+----------2000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 2.668 seconds
+----------2500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 3.310 seconds
+----------3000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 3.826 seconds
+----------3500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 4.305 seconds
+----------4000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 4.730 seconds
+----------4500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 5.132 seconds
+----------5000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 5.560 seconds
+----------5500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 6.006 seconds
+----------6000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 6.413 seconds
+----------6500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 6.907 seconds
+----------7000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 7.321 seconds
+----------7500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 7.762 seconds
+----------8000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 8.175 seconds
+----------8500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 8.601 seconds
+----------9000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 9.014 seconds
+----------9500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 9.435 seconds
+----------10000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 9.850 seconds
+----------10500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 10.240 seconds
+----------11000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 10.705 seconds
+----------11500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 11.184 seconds
+----------12000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 11.632 seconds
+----------12500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 12.121 seconds
+----------13000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 12.554 seconds
+----------13500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 13.031 seconds
+----------14000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 13.450 seconds
+----------14500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 13.859 seconds
+----------15000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 14.389 seconds
+----------15500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 15.146 seconds
+----------16000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 15.982 seconds
+----------16500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 16.696 seconds
+----------17000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 17.415 seconds
+----------17500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 18.092 seconds
+----------18000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 18.774 seconds
+----------18500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 19.539 seconds
+----------19000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 20.182 seconds
+----------19500 iterations-----------
+1400.0
+GA: 1400.0
+Time : 20.652 seconds
+----------20000 iterations-----------
+1400.0
+GA: 1400.0
+Time : 21.135 seconds
+============================
+MIMIC
+----------500 iterations-----------
+1396.422
+MIMIC: 1400.0
+Time : 1.904 seconds
+----------1000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 3.520 seconds
+----------1500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 5.010 seconds
+----------2000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 6.485 seconds
+----------2500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 7.978 seconds
+----------3000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 9.539 seconds
+----------3500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 11.242 seconds
+----------4000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 12.713 seconds
+----------4500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 14.177 seconds
+----------5000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 15.678 seconds
+----------5500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 17.195 seconds
+----------6000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 18.697 seconds
+----------6500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 20.148 seconds
+----------7000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 21.774 seconds
+----------7500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 23.249 seconds
+----------8000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 24.730 seconds
+----------8500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 26.200 seconds
+----------9000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 27.679 seconds
+----------9500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 29.108 seconds
+----------10000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 30.565 seconds
+----------10500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 32.166 seconds
+----------11000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 33.643 seconds
+----------11500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 35.116 seconds
+----------12000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 36.565 seconds
+----------12500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 38.020 seconds
+----------13000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 39.492 seconds
+----------13500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 40.998 seconds
+----------14000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 42.448 seconds
+----------14500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 43.894 seconds
+----------15000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 45.347 seconds
+----------15500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 46.833 seconds
+----------16000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 48.287 seconds
+----------16500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 49.749 seconds
+----------17000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 51.648 seconds
+----------17500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 53.411 seconds
+----------18000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 54.911 seconds
+----------18500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 56.464 seconds
+----------19000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 58.281 seconds
+----------19500 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 59.801 seconds
+----------20000 iterations-----------
+1400.0
+MIMIC: 1400.0
+Time : 61.326 seconds
